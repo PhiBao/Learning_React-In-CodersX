@@ -1,0 +1,7 @@
+img {
+    width: 30rem;
+}
+.checked {
+    width: 15rem;
+    opacity: .2;
+}
